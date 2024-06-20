@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: sonpham.org
+title: sonpham.net
 email: 4dollars2cents@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Finance, AI, C++
@@ -33,7 +33,7 @@ theme: minima
 collections:
   finance:
     output: true
-  cplusplus:
+  programming:
     output: true
   ai:
     output: true
